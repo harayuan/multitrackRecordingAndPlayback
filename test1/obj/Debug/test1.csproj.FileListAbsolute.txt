@@ -1,0 +1,29 @@
+c:\users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\test1.exe.config
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\test1.exe
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\test1.pdb
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\NAudio.dll
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.exe
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\test1.pdb
+U:\Workspace\test1\test1\bin\Debug\test1.exe.config
+U:\Workspace\test1\test1\obj\Debug\test1.exe
+U:\Workspace\test1\test1\obj\Debug\test1.pdb
+U:\Workspace\test1\test1\bin\Debug\test1.exe
+U:\Workspace\test1\test1\bin\Debug\test1.pdb
+U:\Workspace\test1\test1\bin\Debug\XCorrLib.pdb
+U:\Workspace\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+U:\Workspace\test1\test1\obj\Debug\test1.Form1.resources
+U:\Workspace\test1\test1\obj\Debug\test1.Properties.Resources.resources
+U:\Workspace\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+U:\Workspace\test1\test1\obj\Debug\test1.DeviceForm.resources
+U:\Workspace\test1\test1\bin\Debug\MWArray.dll
+U:\Workspace\test1\test1\bin\Debug\MWArray.xml
+U:\Workspace\test1\test1\bin\Debug\NAudio.dll
+U:\Workspace\test1\test1\bin\Debug\MyXCORR.dll
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\MWArray.dll
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\MyXCORR.dll
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\MWArray.xml
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\test1.DeviceForm.resources

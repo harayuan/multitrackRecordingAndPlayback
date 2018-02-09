@@ -1,0 +1,15 @@
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\MWArray.dll
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\MyXCORR.dll
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\NAudio.dll
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\bin\Debug\MWArray.xml
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\Automation.DeviceForm.resources
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\Automation.MainForm.resources
+C:\Users\mtk14360\documents\visual studio 2015\Projects\test1\test1\obj\Debug\Automation.csproj.GenerateResource.Cache
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\Automation.exe.config
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\Automation.csprojResolveAssemblyReference.cache
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\Automation.Properties.Resources.resources
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\Automation.exe
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\Automation.pdb
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\Automation.exe
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\Automation.pdb
+C:\Users\mtk14360\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\Automation.MappingForm.resources

@@ -1,0 +1,5 @@
+U:\Workspace\test1\test1\bin\x64\Release\test1.exe.config
+U:\Workspace\test1\test1\obj\x64\Release\test1.DeviceForm.resources
+U:\Workspace\test1\test1\obj\x64\Release\test1.Form1.resources
+U:\Workspace\test1\test1\obj\x64\Release\test1.Properties.Resources.resources
+U:\Workspace\test1\test1\obj\x64\Release\test1.csproj.GenerateResource.Cache

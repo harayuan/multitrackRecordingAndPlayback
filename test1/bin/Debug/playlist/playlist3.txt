@@ -1,0 +1,9 @@
+pause_20sec.wav,[Silence],[Silence],[Silence],[Silence]
+
+alexa-3_speakers_15sec_silence.wav,Interference_align.wav,[Silence],[Silence],[Silence]
+alexa-3_speakers_15sec_silence.wav,[Silence],Interference_align.wav,[Silence],[Silence]
+alexa-3_speakers_15sec_silence.wav,[Silence],[Silence],Interference_align.wav,[Silence]
+
+alexa-3_speakers_cloud_task.wav,Interference_align.wav,[Silence],[Silence],[Silence]
+alexa-3_speakers_cloud_task.wav,[Silence],Interference_align.wav,[Silence],[Silence]
+alexa-3_speakers_cloud_task.wav,[Silence],[Silence],Interference_align.wav,[Silence]
